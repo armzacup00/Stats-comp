@@ -1,0 +1,38 @@
+.bgc{
+    background-color: hsl(233, 47%, 7%);
+}
+.bgg{
+    background-color:  hsl(244, 38%, 16%);
+    height: auto;
+    width: 74rem;
+}
+.bgpd{
+    opacity: 0.6;
+    width: 80rem;
+}
+.bgpm{
+    opacity: 0.6;
+}
+.bgp{
+    background-color: hsl(277, 64%, 61%);
+}
+.fc{
+    color: hsl(277, 64%, 61%);
+}
+.descripf{
+    font-family: 'Lexend Deca', sans-serif;
+}
+.hf{
+    font-family: 'Inter', sans-serif;
+}
+@media (max-width:767px) {
+    .bgg{
+        width: auto;
+        height: auto;
+        background-color:  hsl(244, 38%, 16%);
+    }
+    .bgpm{
+        opacity: 0.6;
+        width: 83rem;
+    }
+}
